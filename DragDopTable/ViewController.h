@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <UITableViewDelegate, UITableViewDataSource> {
+    NSMutableArray *_list;
+}
+
+@property (retain, nonatomic) IBOutlet UITableView *tableView;
 
 @end

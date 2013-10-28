@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>23495022-5765-48C1-BCED-C4482B2596A8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DragDopTable</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E29266B9-A7A2-4F38-9214-84423A82A91C</key>
+		<string>https://github.com/coderDove/UITableView-Drag-n-Drop.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DragDopTable.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E29266B9-A7A2-4F38-9214-84423A82A91C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/coderDove/UITableView-Drag-n-Drop.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E29266B9-A7A2-4F38-9214-84423A82A91C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E29266B9-A7A2-4F38-9214-84423A82A91C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DragDropTable</string>
+		</dict>
+	</array>
+</dict>
+</plist>
